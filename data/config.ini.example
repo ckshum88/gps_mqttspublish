@@ -1,0 +1,4 @@
+mqtt_server = <hostname>
+mqtt_port = <port>
+mqtt_username = <username>
+mqtt_password = <password>
